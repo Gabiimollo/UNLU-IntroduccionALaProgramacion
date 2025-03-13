@@ -1,0 +1,13 @@
+Desarrolle un algoritmo que permita determinar el área y perímetro de un
+triángulo equilátero conociendo uno de sus lados.
+
+
+INICIO
+    ESCRIBIR("Ingrese el valor del lado")
+    LEER lado
+
+    area = (((lado ^ 2) * raiz(3)) / 4) // Lado elevado al cuadrado por raiz de 3, todo dividido entre 4 //
+    perimetro = 3 * lado
+
+    ESRIBIR("El area es: " + area + " y el perimetro es: " + perimetro)
+FIN
