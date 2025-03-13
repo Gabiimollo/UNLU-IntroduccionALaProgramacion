@@ -1,5 +1,4 @@
-Desarrolle un algoritmo que permita determinar el área y perímetro de un
-triángulo equilátero conociendo uno de sus lados.
+Desarrolle un algoritmo que permita determinar el área y perímetro de un triángulo equilátero conociendo uno de sus lados.
 
 
 INICIO
